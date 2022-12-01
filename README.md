@@ -152,6 +152,7 @@ Opvallende knoppen.
   
   - in de nav geen ul in een ul
   - in de footer ul gebruiken ipv sections
+  - alt teksten toevoegen
   - hele article klikbaar maken ipv alleen de h2
   - img maken ipv figure
   - a in artikel zetten
