@@ -135,7 +135,7 @@ Opvallende knoppen.
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  Ik ben nog steeds bezig met het html skelet.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
