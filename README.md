@@ -82,16 +82,16 @@ Semantisch correcte code.
 Hover met meer contrast.
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  ##### Hier korte omschrijving (met indien nodig afbeeldingen)
 Elestiekjes: Bij het typen zorgt het voor problemen. Bij het bewegen van muis moet de gebruiker een grotere beweging maken. Verder ging navigeren nog goed, alleen iets langzamer dan normaal.
 Spasmes: Typen is moeilijk, veel onbedoeld typen. Kan muis niet stil houden.
 Concentratie: De focus van de gebruiker ligt vooral op de baloon. Ik vond het moeilijk om uberhaupt de website te navigeren, laat staan een taak voltooien.
   
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  ##### Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 Grote navigatie elementen.
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  ##### Hier korte omschrijving (met indien nodig afbeeldingen)
 Blur: Witte knop zonder border moeilijk te zien. Grote tekst is nog wel te lezen, maar kleine tekst niet.
 Hemifield loss: Hoofd bewegen om hele scherm te zien. Meer afstand nemen om een grotere viewport te ervaren.
 Staar: Het centrale zicht is erg slecht, daarom heen wel prima. 
@@ -99,7 +99,7 @@ Diabetic Eye Desease: Je ziet alleen een paar vlekken. Typen is moeilijk, omdat 
 Low contrast: hovers niet meer te zien. Vooral bij witte knoppen, zwarte tekst.
 Er is geen dark mode.
   
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  ##### Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 Dark mode toevoegen.
 Opvallende knoppen.
 </details>
