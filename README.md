@@ -255,11 +255,19 @@ Opvallende knoppen.
 
   - punt 1
   - punt 2
-  - nog een punt
+  - in de nav geen ul in een ul
+  - in de footer ul gebruiken ipv sections
+  - hele article klikbaar maken ipv alleen de h2
+  - img maken ipv figure
+  - a in artikel zetten
+  - h2 altijd bovenaan in html
+  - stackedit.io
+  - alleen navigatie in de nav
+  
+  
   - ...
 
 </details>
-
 
 
 
