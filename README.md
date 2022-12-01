@@ -60,7 +60,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
-
+Er wordt verteld dat er een tag is, maar niet wat voor tag het is (wat er in staat)
+Er zit een dood eind voor de footer.
+Populaire items op de homepage hebben geen alt-text. Niet alles heeft een alt-text.
+Elementen die er hetzelfde uitzien worden anders gecategoriseerd (link,kopjes), waardoor er een onlogische volgorde wordt nagelopen.
+  
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
@@ -91,14 +95,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/break1.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/break4.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  ### wellicht nog een dynamisch deel: 
+  <img src="readme-images/break2.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
+  ### wellicht nog een dynamisch deel: 
+  <img src="readme-images/break3.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 </details>
 
 
