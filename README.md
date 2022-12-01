@@ -140,20 +140,25 @@ Opvallende knoppen.
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | sten      | michelle          | joep    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | html check  | tekst over afbeelding plaatsen             | en ik dit    | en dan ik dat    |
+  | caroussel | dit als er tijd is | html check | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  
+  - in de nav geen ul in een ul
+  - in de footer ul gebruiken ipv sections
+  - hele article klikbaar maken ipv alleen de h2
+  - img maken ipv figure
+  - a in artikel zetten
+  - h2 altijd bovenaan in html
+  - stackedit.io
+  - alleen navigatie in de nav
+  
 
 </details>
 
@@ -255,15 +260,7 @@ Opvallende knoppen.
 
   - punt 1
   - punt 2
-  - in de nav geen ul in een ul
-  - in de footer ul gebruiken ipv sections
-  - hele article klikbaar maken ipv alleen de h2
-  - img maken ipv figure
-  - a in artikel zetten
-  - h2 altijd bovenaan in html
-  - stackedit.io
-  - alleen navigatie in de nav
-  
+  -
   
   - ...
 
