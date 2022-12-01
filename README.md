@@ -66,25 +66,42 @@ Populaire items op de homepage hebben geen alt-text. Niet alles heeft een alt-te
 Elementen die er hetzelfde uitzien worden anders gecategoriseerd (link,kopjes), waardoor er een onlogische volgorde wordt nagelopen.
   
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+Semantisch correcte code waardoor er een logische volgorde wordt nagelopen. 
+Alt-teksten gebruiken.
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-
+Bij besturing met toetsenbord wordt de hoofdnavigatie overgeslagen. 
+Bij gebruik van tab om te navigeren is het onduidelijk waar de gebruiker zich op de website bevindt. Op sommige onderdelen (zoals producten, is wel een blauwe outline.
+Controls met de pijltjes op het toetsenbord werkt niet, alleen met tab.
+Hovers op de buttons zijn wel aanwezig, maar er is te weinig contrast om het merkbaar te maken. (zwart → donkergrijs) 
+Active onder menu bij section 3 is er wel, maar in de hoofdnavigatie niet.
+  
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+Semantisch correcte code.
+Hover met meer contrast.
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
-
+Elestiekjes: Bij het typen zorgt het voor problemen. Bij het bewegen van muis moet de gebruiker een grotere beweging maken. Verder ging navigeren nog goed, alleen iets langzamer dan normaal.
+Spasmes: Typen is moeilijk, veel onbedoeld typen. Kan muis niet stil houden.
+Concentratie: De focus van de gebruiker ligt vooral op de baloon. Ik vond het moeilijk om uberhaupt de website te navigeren, laat staan een taak voltooien.
+  
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+Grote navigatie elementen.
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-
+Blur: Witte knop zonder border moeilijk te zien. Grote tekst is nog wel te lezen, maar kleine tekst niet.
+Hemifield loss: Hoofd bewegen om hele scherm te zien. Meer afstand nemen om een grotere viewport te ervaren.
+Staar: Het centrale zicht is erg slecht, daarom heen wel prima. 
+Diabetic Eye Desease: Je ziet alleen een paar vlekken. Typen is moeilijk, omdat de gebruiker hun blik constant verplaatst. 
+Low contrast: hovers niet meer te zien. Vooral bij witte knoppen, zwarte tekst.
+Er is geen dark mode.
+  
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+Dark mode toevoegen.
+Opvallende knoppen.
 </details>
 
 
