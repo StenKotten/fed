@@ -70,14 +70,14 @@ Semantisch correcte code waardoor er een logische volgorde wordt nagelopen.
 Alt-teksten gebruiken.
 
   #### Muis en Toetsenbord 
- # Hier korte omschrijving (met indien nodig afbeeldingen)
+ ##### Hier korte omschrijving (met indien nodig afbeeldingen)
 Bij besturing met toetsenbord wordt de hoofdnavigatie overgeslagen. 
 Bij gebruik van tab om te navigeren is het onduidelijk waar de gebruiker zich op de website bevindt. Op sommige onderdelen (zoals producten, is wel een blauwe outline.
 Controls met de pijltjes op het toetsenbord werkt niet, alleen met tab.
 Hovers op de buttons zijn wel aanwezig, maar er is te weinig contrast om het merkbaar te maken. (zwart → donkergrijs) 
 Active onder menu bij section 3 is er wel, maar in de hoofdnavigatie niet.
   
- # Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+ ##### Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 Semantisch correcte code.
 Hover met meer contrast.
 
