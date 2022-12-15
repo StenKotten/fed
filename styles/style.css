@@ -20,6 +20,9 @@ button, summary {
 	/* startje */
 	--color-text:#111;
 	--color-background:#eee;
+	--color-ajax:rgba(194, 0, 47, 1);
+	--color-background2:rgba(24, 19, 20, 1);
+	font-family: 'Heebo', sans-serif;
 }
 
 
@@ -32,3 +35,51 @@ button, summary {
 
 /* jouw code */
 
+header {
+	background-color: var(--color-ajax);
+	list-style: none;
+	list-style-type: none;
+	text-decoration: none;
+	color: white;
+}
+
+/* https://blog.hubspot.com/website/remove-underline-from-links-css */
+a:link { text-decoration: none;
+	color: white; }
+
+a:visited { text-decoration: none; 
+	color: white;}
+
+a:hover { text-decoration: none; }
+
+a:active { text-decoration: none; }
+
+/*nav {
+	text-decoration: none;
+} */
+
+/* uitgelichte artikelen */
+section:nth-of-type(1) {
+	width: 90%;	
+}
+/* uitgelichte video's */
+section:nth-of-type(2) { 
+	background-color: var(--color-background2);
+	display: flex;
+	gap: 1em;
+	overflow: scroll;
+	color: white;
+}
+
+ul:nth-of-type(1) {
+	display: flex;
+	gap: 3em;
+	overflow: scroll;
+	
+}
+
+
+footer a:link { 
+	color: var(--color-text); }
+footer a:visited {  
+		color: var(--color-text);}
